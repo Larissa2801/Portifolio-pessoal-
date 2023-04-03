@@ -1,0 +1,107 @@
+
+    body{
+        background:  rgb(0, 0, 0);
+    }
+    header {
+        width: 100%;
+        text-align: left;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        padding: 10px 0;
+    }
+    .menu li {
+        display: inline-block;
+        color: #F535AA;
+    }
+    .menu li a {
+        justify-content: space-around;
+        font-size: 18px;
+        text-decoration: none;
+        color: #F535AA;
+        padding: 10px 15px;
+        border-radius: 15px;
+
+    }
+    .titulo{
+        text-align: center;
+        color: white;
+        font-family: Courier New, monospace;
+
+
+    }
+    .sobremim{
+        text-align: center;
+        font-family: fantasy;
+
+    }
+    p{
+        text-align: center;
+    }
+    h4{
+        text-align: center;
+    }
+    h3{
+        font-size: large;
+        text-align: center;
+        color: rgb(118, 145, 194);
+    }
+    .info{
+        color: rgb(255, 255, 255);
+        font-size: 100%;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    .foto{
+        width: 200%;
+        height: 20%;
+    }
+    .oi{
+        font-size: 300%;
+        color: #E38AAE;
+    }
+    .fotodeperfil{
+        position: absolute;
+        left: 0; top: 0;
+    }
+    .lista{
+        text-decoration: #F535AA;
+       
+    }
+    .icon{
+        width: 50%;
+        margin: auto;
+       text-align: center;
+    }
+    .lista{
+        color: white;
+        text-align: center;
+    }
+    .title-lista{
+        color: #ffffff;
+    }
+
+   .title-uai{
+    color: #fcfcfc;
+    font-size: 200%;
+   }
+   .uae{
+    width: 100%;
+   }
+   .atuacao{
+    width: 10%;
+    margin: auto;
+   text-align: center;
+
+   }
+   .desenvolve{
+    width: 100%;
+   }
+    .palm{
+        width: 15%;
+    }
+    .book{
+        width: 15%;
+    }
+    .linkedin{
+        width: 20%;
+    }
